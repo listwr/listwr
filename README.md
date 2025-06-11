@@ -14,6 +14,16 @@ All listings come from verified and trusted sources, ensuring authenticity and r
 
 3. Direct Contact
 Skip the middleman. Communicate directly with suppliers and businesses to ask questions, get quotes, or seal the deal.
+
+### 🔗 Visit Us  
+👉 [https://listwr.com](https://listwr.com)
+
+### 🧩 Features  
+- Business Profile Listing  
+- Location & Category Search  
+- Offers & Deals Board  
+- News, Blogs, and More
+  
 <!--
 **listwr/listwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
